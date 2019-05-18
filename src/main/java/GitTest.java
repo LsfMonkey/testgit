@@ -17,5 +17,6 @@ public class GitTest {
         // add a line desc. Secont
         System.out.println("secont commit origin by dev branch.");
         // secont rebase
+        System.out.println("secont rebase");
     }
 }
