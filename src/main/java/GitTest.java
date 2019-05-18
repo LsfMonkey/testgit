@@ -12,6 +12,8 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("this a test git");
         System.out.println("stash 0");
+        // add a line desc.
+        System.out.println("first commit origin by dev branch.");
         // add a line desc. Secont
         System.out.println("secont commit origin by dev branch.");
     }
